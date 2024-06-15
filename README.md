@@ -32,7 +32,7 @@
  <p>
   Visualize meus portfólios:
   <a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a>
-  <a href="#">/ Central de Comunicados</a>
+  <a href="https://israelbrian.github.io/Central-de-Comunicados/contato.html">/ Central de Comunicados</a>
   <a href="#">/ Projeto Noticias Cidade</a>
   
  </p>
