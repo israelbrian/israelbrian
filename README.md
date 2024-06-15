@@ -1,8 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 👋
-<div>
- Acesse meus portifolios:
- <a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a>
-</div>
+
  <div>
    <a href="https://github.com/israelbrian">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelbrian&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -29,10 +26,16 @@
   <a href="https://instagram.com/isra_malakian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="israel_brian@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Hotmail%20%20-grey?style=for-the-badge&logo=microsoft" target="_blank"> </a>
   <a href = "zdesenhos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+ <p>
+  Visualize meus portfólios:
+  <a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a>
+  <a href="#">/ Central de Comunicados</a>
+  <a href="#">/ Projeto Noticias Cidade</a>
   
-
-
- 
+ </p>
 </div>
 
 <!--
