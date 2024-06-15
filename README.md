@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 👋
-
+<div>
+ Acesse meus portifolios:
+ <a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a>
+</div>
  <div>
    <a href="https://github.com/israelbrian">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelbrian&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
