@@ -16,11 +16,11 @@
                         
           
 </div>
- 
 <br>
- 
+
+***
 ### Me encontre em outras Redes!
- 
+
 <div> 
   <a href="https://www.linkedin.com/in/israel-brian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/isra_malakian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,9 +28,12 @@
   <a href = "zdesenhos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+***
+
 <div>
  <p>
  <b>Visualize meus portfólios:</b>
+  <br>
   <a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a>
   <a href="https://israelbrian.github.io/Central-de-Comunicados/contato.html">/ Central de Comunicados</a>
   <a href="#">/ Projeto Noticias Cidade</a>
