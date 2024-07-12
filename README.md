@@ -35,7 +35,7 @@
  <b>Visualize meus portfólios:</b>
   <br>
   <a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a>
-  <a href="https://israelbrian.github.io/Central-de-Comunicados/contato.html">Assessoria de Tecnologia (Central de Comunicados)</a>
+  <a href="https://israelbrian.github.io/Central-de-Comunicados/contato.html">/ Assessoria de Tecnologia (Central de Comunicados)</a>
   <a href="https://israelbrian.github.io/Formulario-faculdade/">/ Formulario Básico</a>
   
  </p>
