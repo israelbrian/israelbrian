@@ -29,16 +29,13 @@
 </div>
 
 ***
+### Visualize meus portfólios:
 
 <div>
- <p>
- <b>Visualize meus portfólios:</b>
-  <br>
-  <a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a>
-  <a href="https://israelbrian.github.io/Central-de-Comunicados/">/ Assessoria de Tecnologia (Central de Comunicados)</a>
-  <a href="https://israelbrian.github.io/Formulario-faculdade/">/ Formulario Básico</a>
-  
- </p>
+ <ul>
+   <li><a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a></li>
+   <li><a href="https://israelbrian.github.io/Central-de-Comunicados/">Assessoria de Tecnologia (Central de Comunicados)</a></li>
+   <li><a href="https://israelbrian.github.io/Formulario-faculdade/">Formulário Básico</a></li>
 </div>
 
 <!--
