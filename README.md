@@ -33,9 +33,9 @@
 
 <div>
  <ul>
-   <li><a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a></li>
    <li><a href="https://israelbrian.github.io/Central-de-Comunicados/">Assessoria de Tecnologia (Central de Comunicados)</a></li>
    <li><a href="https://israelbrian.github.io/Formulario-faculdade/">Formulário Básico</a></li>
+   <li><a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a></li>
 </div>
 
 <!--
