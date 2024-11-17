@@ -33,6 +33,7 @@
 
 <div>
  <ul>
+  <li><a href="https://gerenciador-de-tarefas-ivory-sigma.vercel.app/">Gerenciador de Tarefas</a></li>
    <li><a href="https://green-tec.netlify.app/">Green Tec</a></li>
    <li><a href="https://israelbrian.github.io/Central-de-Comunicados/">Assessoria de Tecnologia (Central de Comunicados)</a></li>
    <li><a href="https://israelbrian.github.io/Formulario-faculdade/">Formulário Básico</a></li>
