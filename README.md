@@ -14,7 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /> 
-  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+  <svg xmlns="http://www.w3.org/2000/svg" x="30px" y="40px" width="100" height="100" viewBox="0 0 48 48">
 </svg>
                         
           
