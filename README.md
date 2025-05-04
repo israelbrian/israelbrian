@@ -13,8 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /> 
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/+esm" /> 
+  <img align="center" alt="CSS" height="30" width="40" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /> 
                         
           
 </div>
