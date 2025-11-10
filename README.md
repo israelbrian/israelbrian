@@ -47,9 +47,6 @@
   <li><a href="https://gerenciador-de-tarefas-ivory-sigma.vercel.app/">Gerenciador de Tarefas (React)</a></li>
    <li><a href="https://green-tec.netlify.app/">Green Tec (Bootstrap)</a></li>
    <li><a href="https://israelbrian.github.io/clone_Spotify_Bootstap/">Spotify Clone (Bootstap)</a></li>
-  <li><a href="https://israelbrian.github.io/sorteioPS5/index.html">Sorteio PS5</a></li>
-<!--    <li><a href="https://israelbrian.github.io/Formulario-faculdade/">Formulário Básico</a></li> -->
-   <li><a href=https://israelbrian.github.io/Curriculo-WEB/>Currículo WEB</a></li>
 </div>
 
 <!--
