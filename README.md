@@ -40,11 +40,11 @@
 
 <div>
  <ul>
-   <li><a href="#">Gerador de assinatura</a></li>
    <li><a href="https://jacare-do-papo-amarelo.vercel.app">Jacaré-do-papo-amarelo</a></li>
-   <li><a href="#">Intranet SES (Assessoria de Tecnologia)</a></li>
   <li><a href="https://furia-chatbot-js.vercel.app/">Furia chatbot (Javascript)</a></li>
   <li><a href="https://chatbot-flask-frontend.vercel.app/">Furia chatbot (Flask / Python)</a></li>
+   <li><a href="#">Gerador de assinatura</a></li>
+   <li><a href="#">Intranet SES (Assessoria de Tecnologia)</a></li>
   <li><a href="https://gerenciador-de-tarefas-ivory-sigma.vercel.app/">Gerenciador de Tarefas (React)</a></li>
    <li><a href="https://green-tec.netlify.app/">Green Tec (Bootstrap)</a></li>
    <li><a href="https://israelbrian.github.io/clone_Spotify_Bootstap/">Spotify Clone (Bootstap)</a></li>
