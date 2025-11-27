@@ -41,6 +41,7 @@
 <div>
  <ul>
    <li><a href="#">Gerador de assinatura SES SES</a></li>
+   <li><a href="https://jacare-do-papo-amarelo.vercel.app/home">Jacaré-do-papo-amarelo</a></li>
    <li><a href="https://israelbrian.github.io/intranetSES/">Intranet SES (Assessoria de Tecnologia)</a></li>
   <li><a href="https://furia-chatbot-js.vercel.app/">Furia chatbot (Javascript)</a></li>
   <li><a href="https://chatbot-flask-frontend.vercel.app/">Furia chatbot (Flask / Python)</a></li>
