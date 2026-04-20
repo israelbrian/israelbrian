@@ -1,66 +1,68 @@
-## Bem-vindo(a) ao meu perfil 👋
+# Bem-vindo(a)! 
 
- <div>
+> *"O milagre não é algo que acontece, é algo que fazemos acontecer." — Misato Katsuragi*
+
+
+### Sobre Mim
+
+Sou Desenvolvedor e Analista de Sistemas de Informação focado na construção de aplicações que otimizam rotinas profissionais e automatizam operações.
+
+Por ter iniciado minha jornada na área de Infraestrutura, hoje agrego à Engenharia de Software uma **Visão Sistêmica** apurada. 
+
+<!-- ### Taxa de Sincronia // GitHub Stats -->
+<div>
    <a href="https://github.com/israelbrian">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelbrian&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelbrian&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-  <img align="center" alt="Flask" height="30" width="40" 
-  src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/flask.svg" 
-  style="color: #fff;">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  
 
-                        
-          
+<!-- ### MAGI System // Ecossistema de Desenvolvimento -->
+---
+
+### Stack Principal
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,html,css,tailwind,bootstrap,py,flask,fastapi,docker,nginx,linux,postman&theme=dark" alt="Tecnologias que utilizo atualmente" />
 </div>
-<br>
 
-***
-### Me encontre em outras Redes!
 
-<div> 
+### Em Treinamento
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,go,php&theme=dark" alt="Tecnologias que estou aprendendo" />
+</div>
+
+---
+
+### Contexto Aplicado (Impacto Real)
+*Projetos desenvolvidos para resolver problemas organizacionais específicos.*
+* **[Gerador de Assinaturas SES-MG](https://gerador-de-assinatura.fly.dev/)**: Sistema *Full-Stack* (React + Flask + Docker + Nginx) desenvolvido para a TI da SES/MG (Secretaria de Estado de Saúde de Minas Gerais). Assumiu o lugar de planilhas locais pesadas, centralizando a padronização das assinaturas estaduais e eliminando 100% dos atendimentos de suporte técnico a respeito desse tema.
+
+---
+
+### Build to Earn (Soluções Comerciais)
+*Sistemas fechados e/ou voltados à performance de vendas.*
+* **[Plenus Planejados](https://website-plenus-remastered.zdesenhos.workers.dev/contato)**: Refatoração (*Next.js, React, Tailwind CSS, TypeScript*) de um site institucional legado *(Frontpage)*. Otimizado para conversão corporativa, combinando UI moderna, alta performance e SEO aprimorado. <br>
+*(Em desenvolvimento)*
+
+<!-- * ⏳ **Lersium Code**: Estruturação da minha própria marca/software house para desenvolvimento de soluções B2B. *(Backlog/Planejamento)* -->
+
+---
+
+### Build to Learn (POCs e MVPs)
+*Experimentos técnicos e projetos por paixão.*
+* **[Intranet SES 2.0 (React)](https://github.com/israelbrian/intranetSES)**: Central técnica para a SES/MG. Reúne serviços do Office 365, central de POPs e um *bot* de suporte em uma plataforma de autoatendimento para os colaboradores do estado.
+* **[Jacaré-do-papo-amarelo](https://jacare-do-papo-amarelo.vercel.app)**: Ferramenta educativa interativa em que a lógica complexa de minigames instrui crianças sobre a fauna brasileira.
+<!-- * **[Gerenciador de Tarefas](https://gerenciador-de-tarefas-ivory-sigma.vercel.app/)**: Treinamento focado no domínio avançado de gerenciamento de estado global (*State Management*) e rotas de CRUD em React.
+* **[Page Furia c/ Chatbot JS](https://furia-chatbot-js.vercel.app/)**: *Landing page* focada em criar uma **Prova de Conceito** de bot conversacional rodando inteiramente na arquitetura *Client-Side* com JavaScript puro. -->
+* **[Chatbot c/ API Python](https://chatbot-flask-frontend.vercel.app/)**: Evolução conversacional para o modelo **Cliente-Servidor**. Integrou a interface do bot (*Front-end*) de forma assíncrona a uma API REST desenvolvida no *Back-end* (Python/Flask).
+
+* **[Green-Tec Landing Page](https://green-tec.netlify.app/)**: **PoC** totalmente focada em aplicar *Design Responsivo* (*Mobile First*) e implementar boas práticas de *UX/UI*, garantindo uma navegação moderna, fluida e altamente intuitiva utilizando o bootstrap 5.
+
+---
+
+### Contato
+
+<div align="center">
   <a href="https://www.linkedin.com/in/israel-brian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/isra_malakian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:israel_brian@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Hotmail%20%20-grey?style=for-the-badge&logo=microsoft" target="_blank"> </a>
-  <a href ="mailto:zdesenhos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:israel_brian@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-E_Mail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div>
-
-***
-### Visualize meus portfólios:
-
-<div>
- <ul>
-   <li><a href="https://gerador-de-assinatura.fly.dev/">Gerador de assinatura</a></li>
-   <li><a href="https://jacare-do-papo-amarelo.vercel.app">Jacaré-do-papo-amarelo</a></li>
-  <li><a href="https://furia-chatbot-js.vercel.app/">Furia chatbot (Javascript)</a></li>
-  <li><a href="https://chatbot-flask-frontend.vercel.app/">Furia chatbot (Flask / Python)</a></li>
-   <li><a href="#">Intranet SES (Assessoria de Tecnologia)</a></li>
-  <li><a href="https://gerenciador-de-tarefas-ivory-sigma.vercel.app/">Gerenciador de Tarefas (React)</a></li>
-   <li><a href="https://green-tec.netlify.app/">Green Tec (Bootstrap)</a></li>
-   <li><a href="https://israelbrian.github.io/clone_Spotify_Bootstap/">Spotify Clone (Bootstap)</a></li>
-</div>
-
-<!--
-**israelbrian/israelbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
