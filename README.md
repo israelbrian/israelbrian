@@ -34,7 +34,7 @@ Por ter iniciado minha jornada na área de Infraestrutura, hoje agrego à Engenh
 
 ### Contexto Aplicado (Impacto Real)
 *Projetos desenvolvidos para resolver problemas organizacionais específicos.*
-* **[Gerador de Assinaturas SES-MG](https://gerador-de-assinatura.fly.dev/)**: Sistema *Full-Stack* (React + Flask + Docker + Nginx) desenvolvido para a TI da SES/MG (Secretaria de Estado de Saúde de Minas Gerais). Assumiu o lugar de planilhas locais pesadas, centralizando a padronização das assinaturas estaduais e eliminando 100% dos atendimentos de suporte técnico a respeito desse tema.
+* **[Gerador de Assinaturas SES-MG](https://gerador-de-assinatura.fly.dev/)**: Sistema *Full-Stack* desenvolvido para a TI da SES/MG (Secretaria de Estado de Saúde de Minas Gerais). Assumiu o lugar de planilhas locais pesadas, centralizando a padronização das assinaturas estaduais e eliminando 100% dos atendimentos de suporte técnico a respeito desse tema.
 
 ---
 
