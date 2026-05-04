@@ -21,7 +21,7 @@ Por ter iniciado minha jornada na área de Infraestrutura, hoje agrego à Engenh
 
 ### Stack Principal
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,bootstrap,py,flask,fastapi,docker,nginx,&theme=dark" alt="Tecnologias que utilizo atualmente" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,py,flask,fastapi,docker,nginx,&theme=dark" alt="Tecnologias que utilizo atualmente" />
 </div>
 
 
